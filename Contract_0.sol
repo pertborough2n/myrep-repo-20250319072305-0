@@ -1,5 +1,4 @@
-2
-contract SimpleStorage_0 {
+3contract SimpleStorage_0 {
     uint256 public randomNumber;
     string public message;
 
